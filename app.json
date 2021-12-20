@@ -1,7 +1,7 @@
 {
-  "name": "Haris",
-  "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/justpiple/whatsapp-bot",
-  "logo": "https://i.postimg.cc/qvZVXBC0/virgam2.png",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+	"clientID": "L854D5d3qhrG2N5lxwcp/A==",
+	"serverToken": "1@xkxHw+48ePwqQ6TAsII6jA4UyFbnhDIY1jIJJ6ASoDA8jiHZ7qIg3IqBq62MqwYywD1DRnVJDo1Pzw==",
+	"clientToken": "j3Ayr4I0ZxjEetbKt0/sMg3zv3SntSd7MO/UQWSX9IM=",
+	"encKey": "9NFQzW+1jkYtAxJnFk2FiniPnuFIcK9vOiVqF24sr3Q=",
+	"macKey": "WGkoyCa6KkPp6kPFxuIzB/FedTCCdXVBVwjSCw3ij8Q="
 }
