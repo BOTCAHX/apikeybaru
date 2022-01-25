@@ -503,7 +503,7 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*WHATSAPP-BOT*",
+                  "title": "*Weabot*",
                   "description": "pilh on/off",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
